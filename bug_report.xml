@@ -3,4 +3,5 @@
    <Version>123</Version>
    <Severity>s1</Severity>
    <Priority>p1</Priority>
+   <Status>new</Status>
 </Report>  
