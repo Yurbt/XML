@@ -1,7 +1,7 @@
 <Preferences>
-	<Любимый фильм>:Английский пациент</Любимый фильм>
-	<любимый сериал>:Родина</любимый сериал>
-	<любимая еда>:шашлык</любимая еда>
-	<любимое время года>:лето</любимое время года>
-	<сторона которую хотели бы посетить>Куба<сторона которую хотели бы посетить>
+	<favorite_movie>:English_patient</favorite_movie>
+	<favorite_series>:Motherland</favorite_series>
+	<favorite_food>:shashlik</favorite_food>
+	<favorite_time_of_year>:summer</favorite_time_of_year>
+	<country_I_want_to_visit>Cuba<country_I_want_to_visit>
 </Preferences>
